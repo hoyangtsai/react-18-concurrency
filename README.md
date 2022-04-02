@@ -1,4 +1,4 @@
-# React Concurrency
+# React 18 Concurrency
 
 - useTransition
 - useDeferredValue
@@ -6,6 +6,5 @@
 
 ## Reference
 
-<https://www.youtube.com/watch?v=lDukIAymutM>
-
+<https://www.youtube.com/watch?v=lDukIAymutM><br/>
 <https://github.com/reactjs/rfcs/pull/212#issuecomment-1080912392>
